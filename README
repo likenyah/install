@@ -1,0 +1,5 @@
+A terrible install command based on Rich Felker's comments in commit e678fc6f
+("replace system's install command with a shell script", 2013-08-17) of
+musl.git.
+
+Don't use this.

@@ -1,0 +1,8 @@
+.*
+*.json
+*.o
+
+/install
+
+!.gitattributes
+!.gitignore
